@@ -1,0 +1,2 @@
+This code checks if the current user has administrator privileges. If so, it adds the current file to Windows Defender exclusions and the startup folder. It then starts the keylogger. If the current user does not have administrator privileges, it runs the script again with administrator privileges and hides the window.
+Note: This code is for educational purposes only and should not be used for malicious activities. By Using this you are agreeing that the owner is not responsible for the actions you do.
